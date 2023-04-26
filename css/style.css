@@ -4,15 +4,19 @@
      height: 50px;
     }
 
+.logo-right {
+      height: 50px;
+}
+
 footer {min-height: 80px;
-    background: rgb(30, 45, 109);
+    background: rgb(57, 72, 103);
     text-align: center;
     color: white;
     padding-top: 35px;
        }
 
 header {    
-        background: rgb(30, 45, 109);
+        background: rgb(57, 72, 103);
         position: fixed;
         width: 100%;
         top: 0;
@@ -81,17 +85,17 @@ header {
       display: inline-block;
       padding: 20px;
       border-radius: 5px;
-      background-color: #1e2c6da2;
+      background-color: #212a3eab;
  }
 
  .link-index {
     color: white;
-    text-decoration: underline #fa9483 2px;
+    text-decoration: underline #9BA4B5 2px;
     font-size: 20px;
  }
 
  .link-index:hover {
-  color: #f3deca;
+  color: #9BA4B5;
  }
 
  .centered {
@@ -107,20 +111,20 @@ header {
  li {
   margin-top: 10px;
   padding-left: 15px;
-  list-style-image: linear-gradient(#fa9483, #fa9483);
+  list-style-image: linear-gradient(#212a3e, #212a3e);
  }
 
  .vframe {
    width: 100%;
    height: 30vw;
-   border: 2px solid #f3deca;
+   border: 2px solid #212a3e;
    border-radius: 5px;
    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
  }
 
  .loc {
     overflow: auto;
-    border-bottom: 3px #f3deca dashed;
+    border-bottom: 3px #9BA4B5 dashed;
     margin-bottom: 10px;
  }
 
@@ -137,7 +141,7 @@ header {
       width: 100%;
       height: 40vh;
       border-radius: 5px;
-      border: 4px solid #f3deca;
+      border: 4px solid #212a3e;
  }
 
  .row {
@@ -151,9 +155,9 @@ header {
  }
 
  .contacte, .cform {
-  border: 2px solid #f3deca;
+  border: 2px solid #9BA4B5;
   border-radius: 5px;
-  background-color: #f3decaad;
+  background-color: #9ba4b5af;
   padding: 5px 5%;
   height: 325px;
   margin-bottom: 15px;
